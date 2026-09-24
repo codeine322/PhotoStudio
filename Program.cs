@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             List<Photographer> photographers = new List<Photographer>();
             List<Client> clients = new List<Client>();
